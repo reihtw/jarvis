@@ -1,0 +1,5 @@
+que horas são|asktime
+me diga as horas|asktime
+qual é a data de hoje|askdate
+me diga qual é data de hoje|askdate
+que dia é hoje|askdate
